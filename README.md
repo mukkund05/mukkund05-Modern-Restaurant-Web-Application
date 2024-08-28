@@ -1,1 +1,1 @@
-# Restaurent Website using Reactjs and tailwind css
+# Restaurant Website using Reactjs and tailwind css
